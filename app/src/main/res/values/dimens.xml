@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="email_field_width">332dp</dimen>
+    <dimen name="email_field_height">62dp</dimen>
+    <dimen name="passwd_field_height">332dp</dimen>
+    <dimen name="passwd_field_width">62dp</dimen>
+    <dimen name="dont_have_acct_txt">240dp</dimen>
+    <dimen name="dont_have_acct_txt_height">32dp</dimen>
+    <dimen name="create_acct_width">200dp</dimen>
+    <dimen name="create_acct_height">26dp</dimen>
+    <dimen name="btn_width">350dp</dimen>
+    <dimen name="btn_height">126dp</dimen>
+    <dimen name="form_txt_width">390dp</dimen>
+    <dimen name="form_txt_height">45dp</dimen>
+    <dimen name="lrg_form_txt_height">65dp</dimen>
+    <dimen name="start_padding">15dp</dimen>
+    <dimen name="top_padding">10dp</dimen>
+    <dimen name="end_padding">2dp</dimen>
+    <dimen name="close_btn_padding">7dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_size_small">10dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="text_size_xmedium">14dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="view_width_small">1dp</dimen>
+    <item name="normal_speed" type="dimen" format="float">100</item>
+    <item name="high_speed" type="dimen" format="float">50</item>
+    <item name="low_speed" type="dimen" format="float">120</item>
+</resources>
